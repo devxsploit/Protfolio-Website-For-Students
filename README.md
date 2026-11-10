@@ -41,7 +41,7 @@ git clone https://github.com/adarshyadav074/Protfolio-Website-For-Students.git
 
 You can also open the repository directly:
 
-https://github.com/adarshyadav074/Protfolio-Website-For-Students
+https://github.com/devxsploit/Protfolio-Website-For-Students
 
 ### 2. Customize the Website Using AI
 
